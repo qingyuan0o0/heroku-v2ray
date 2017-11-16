@@ -10,9 +10,9 @@
     "settings": {
       "clients": [
         {
-          "id": $CLIENT_ID,
+          "id": "0916cea1-88c4-4d59-ba4c-efcd8a8c6fc5",
           "level": 1,
-          "alterId": $CLIENT_SECURITY
+          "alterId": 64
         }
       ]
     },
