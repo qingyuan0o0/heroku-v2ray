@@ -12,7 +12,7 @@
         {
           "id": $CLIENT_ID,
           "level": 1,
-          "alterId": 64
+          "alterId": $CLIENT_SECURITY
         }
       ]
     },
