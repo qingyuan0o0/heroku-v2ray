@@ -1,9 +1,4 @@
 {
-  "log" : {
-    "access": "/tmp/v2access.log",
-    "error": "/tmp/v2error.log",
-    "loglevel": "debug"
-  },
   "inbound": {
     "port": $PORT,
     "protocol": "vmess",
